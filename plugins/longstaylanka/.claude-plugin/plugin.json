@@ -1,0 +1,17 @@
+{
+  "name": "longstaylanka",
+  "version": "1.0.0",
+  "description": "The Long Stay Lanka MCP server: search private homes on Sri Lanka's south coast for stays of a week or longer, read a home's public details, list the areas. Read only, no account.",
+  "author": {
+    "name": "Long Stay Lanka",
+    "url": "https://longstaylanka.com"
+  },
+  "homepage": "https://longstaylanka.com/ai",
+  "privacyPolicyUrl": "https://longstaylanka.com/privacy",
+  "keywords": [
+    "sri-lanka",
+    "long-stay",
+    "homes",
+    "mcp"
+  ]
+}

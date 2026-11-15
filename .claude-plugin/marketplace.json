@@ -1,0 +1,21 @@
+{
+  "name": "longstaylanka-ai",
+  "owner": {
+    "name": "Long Stay Lanka",
+    "url": "https://longstaylanka.com"
+  },
+  "metadata": {
+    "description": "Search Long Stay Lanka's catalogue of private homes on Sri Lanka's south coast from Claude Code. Read only, no account.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "longstaylanka",
+      "source": "./plugins/longstaylanka",
+      "description": "Adds the Long Stay Lanka MCP server (https://longstaylanka.com/mcp): search homes for stays of a week or longer, read a home's public details, list the areas. Read only, no account.",
+      "version": "1.0.0",
+      "homepage": "https://longstaylanka.com/ai",
+      "keywords": ["sri-lanka", "long-stay", "homes", "mcp"]
+    }
+  ]
+}
